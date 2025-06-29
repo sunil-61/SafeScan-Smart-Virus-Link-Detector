@@ -18,7 +18,7 @@ class SafeScanApp(QMainWindow):
         super().__init__()
         self.setWindowTitle("🔐 SafeScan - Virus & Link Detector")
         self.setGeometry(300, 100, 800, 600)
-        self.setWindowIcon(QIcon("assets/icon.png"))
+        self.setWindowIcon(QIcon("icon.png"))
 
         self.stack = QStackedWidget()
         self.setCentralWidget(self.stack)
