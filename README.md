@@ -68,10 +68,10 @@ python main.py
 Below are a few glimpses of the SafeScan GUI in action.
 
 ### 🖼️ Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](home.png)
 
 ### 🖼️ Scan Result
-![Scan Screen](screenshots/scan.png)
+![Scan Screen](scan.png)
 
 > You can replace these images by placing your own screenshots in the `screenshots/` folder and naming them accordingly.
 
