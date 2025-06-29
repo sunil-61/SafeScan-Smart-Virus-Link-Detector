@@ -26,11 +26,9 @@ safescan/
 ├── link_scanner.py      # URL scanning logic
 ├── utils.py             # Helper functions
 ├── report_log.txt       # Stores scan history
-├── assets/
-│   └── icon.png         # App icon
-├── screenshots/
-│   ├── home.png         # Screenshot: Home screen
-│   └── scan_result.png  # Screenshot: Scan screen
+├── icon.png             # App icon
+├── home.png             # Home screen
+├── scan.png             # Scanning screen
 └── __pycache__/         # Python cache files (auto-generated)
 ```
 
